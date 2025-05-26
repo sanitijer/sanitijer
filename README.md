@@ -1,7 +1,12 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-# 💫 About Me:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Savrida+Sani!;" />
+</h1>
 
-hi wkslol
+<h3 align="center">A informatics engineering student, STT WASTUKANCANA.</h3>
+
+<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/savridasani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savrida-yahrosani-b995b0308/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savridayahrooo@gmail.com) 
