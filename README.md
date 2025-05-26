@@ -9,7 +9,7 @@
 <br/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/savridasani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savrida-yahrosani-b995b0308/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savridayahrooo@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanisavr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savrida-yahrosani-b995b0308/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savridayahrooo@gmail.com) 
 
 
 ###
